@@ -1,1 +1,1 @@
-alert("deneme");
+alert("ha ha ha ");
