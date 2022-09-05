@@ -1,1 +1,1 @@
-alert("ha ha ha ");
+alert("naber knk ");
